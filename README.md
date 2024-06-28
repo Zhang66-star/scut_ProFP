@@ -14,7 +14,7 @@ A protein fitness predictive framework based on feature combination and intellig
 
 ## Overview
 scut_ProFP is a machine learning predictive framework for protein fitness, designed to guide protein engineering by predicting protein fitness from sequences. It combines feature combination and feature selection techniques: the former to capture rich sequence feature information and the latter to intelligently search for important features. This integration significantly enhances the predictive performance of machine learning models.
-![scut_ProFP](doc/overview.png)
+![scut_ProFP](doc/scut_ProFP.png)
 ## Project Structure
 The project directory includes the following key files and folders:  
 * data/: Directory containing output results.  
